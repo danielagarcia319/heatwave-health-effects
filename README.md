@@ -11,7 +11,9 @@ This repository contains all of the code for Daniela Garcia's senior thesis proj
 
 ### Data Preprocessing 
 
-All data pre-processing code is stored in the `code/data-preprocessing` folder. The steps of data pre-processing are:
+All data pre-processing code is stored in the `code/data-preprocessing` folder. Due to confidentiality restrictions on the Medicare Denominator and Hospitalizations data, we cannot provide the data files in this repository. In addition, our heat index data is not publicly available. As a result, we replaced the paths to these files with `"path_name"` in the relevant R scripts. 
+
+The steps of the data pre-processing performed in this project are:
 
 * Aggregate Denominator Data
     * `code/data-preprocessing/01_aggregate_denom_data.R`
