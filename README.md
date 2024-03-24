@@ -1,7 +1,7 @@
 # Heatwaves: A Burning Issue (Code Repository)
 **Assessing the Temporal and Spatial Heterogeneity of Health Impacts from Extreme Heat Exposure among Elderly Populations in the Contiguous U.S. from 2000 to 2016**
 
-This repository contains all of the code for Daniela Garcia's senior thesis project. 
+This repository contains all of the code for Daniela Garcia's senior thesis project for the Harvard Undergraduate Statistics Department. 
 
 ## Abstract
 
